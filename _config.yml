@@ -4,31 +4,31 @@
 
 # Site settings
 # title appears in the header
-title: workshop-template-b
+title: Oral History Coding
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Font Awesome 5 free, https://fontawesome.com/icons?d=gallery&m=free
 # some options: fas fa-wrench; fas fa-cogs; fas fa-code; fas fa-chalkboard-teacher; fas fa-book-open
-title-icon: fas fa-code
+title-icon: fas fa-laptop-code
 # description and keywords for meta tags
-description: "Create a workshop website quick and easy!"
-keywords: "workshops, websites, gh-pages, jekyll"
+description: "Coding transcripts qualitatively"
+keywords: "oral history, coding, qualitatively analysis"
 featured-image: "/images/uidaho-workshop.jpg"
 
 # author settings for cc-by, appears in the footer
-author: evan will
+author: olivia wikle
 pub_year: 2019
-github_username: evanwill
+github_username: owikle
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/workshop-template-b"
+repo: "https://github.com/uidaholib/oral-history-coding"
 
 # site urls
 # add the url for the domain,
 # on gh-pages follow the pattern: https://username.github.io 
-url: https://evanwill.github.io
+#url: https://evanwill.github.io
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /workshop-template-b
+#baseurl: /workshop-template-b
 
 # add search box to footer?
 search: true
