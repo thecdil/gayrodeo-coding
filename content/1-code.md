@@ -1,5 +1,5 @@
 ---
-title: Code
+title: 2 - Code
 nav: true
 ---
 
@@ -10,4 +10,4 @@ Read through your transcript and code cells by entering words from our controlle
 **Rules for Entering Tags:**
 - For consistency, keep tags lowercase
 - Multi-word tags must be hyphenated (`data-sequencing`)
-- To insert multiple tags, include a semi-colon between each tag (`data-sequencing;genetics`)
+- To insert multiple tags, include a semi-colon between each tag with no spaces (`data-sequencing;genetics`)

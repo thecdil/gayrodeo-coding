@@ -4,7 +4,7 @@
 
 # Site settings
 # title appears in the header
-title: Oral History Coding
+title: Gay Rodeo Coding
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Font Awesome 5 free, https://fontawesome.com/icons?d=gallery&m=free
 # some options: fas fa-wrench; fas fa-cogs; fas fa-code; fas fa-chalkboard-teacher; fas fa-book-open
@@ -15,9 +15,9 @@ keywords: "oral history, coding, qualitatively analysis"
 featured-image: "/images/uidaho-workshop.jpg"
 
 # author settings for cc-by, appears in the footer
-author: olivia wikle
+author: corey oglesby
 pub_year: 2019
-github_username: owikle
+github_username: coroglesby
 
 # add the full url for the github repository
 repo: "https://github.com/uidaholib/oral-history-coding"
