@@ -5,7 +5,8 @@ nav: true
 
 # Turn Your Transcript Into a CSV
 
-**Start Your Transcript Off Right**
+**Start Your Transcript Off Right**  
+
 Doing the following very early on will save lots of time later on:
 - Format each speaking instance as follows: `Speaker:* [01:23] Then the words they say`
 - Put empty brackets (`[ ]`) for any speaking instances you don't have timestamps for.
@@ -16,6 +17,8 @@ Doing the following very early on will save lots of time later on:
     - Replace All.
     - This will remove all white space between paragraphs.
     - **Note:** You may also need to highlight all (Ctrl+A) and go to: `File > Line and Paragraph Spacing > Remove Space Before Paragraph` (and) `Remove Space After Paragraph`
+- The prepared Word Doc should look something like this:
+{% include figure.html img="prep-1.png" width="100%" %}
 
 **Paste to Google Sheets:**
 - Open a blank Google Sheet.
