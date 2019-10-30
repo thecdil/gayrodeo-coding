@@ -26,6 +26,8 @@ Doing the following very early on will save lots of time later on:
     - You'll want just the plain text, so copy your text this way: `Edit > Paste Special > Paste Values Only`. 
     - This makes each paragraph into a single cell.
 
+{% include figure.html img="prep-2.png" width="100%" %}
+
 **Split up Your Cells:**
 - Insert a blank row of cells at the very top of the spreadsheet (so we can title columns in a bit)
 - Highlight Column A (where all of your text currently resides). 
@@ -36,6 +38,9 @@ Doing the following very early on will save lots of time later on:
         - This will delete the `*` from your speaker's name and the `[` from the beginning of your timestamp, and that's okay.
     - Column A should now consist only of speaker name tags ending in `:`
     - Title this Column `speaker` (lowercase)
+{% include figure.html img="prep-3.png" width="100%" %}
+{% include figure.html img="prep-4.png" width="100%" %}
+{% include figure.html img="prep-5.png" width="100%" %}
 - Highlight Column B (which now should only contain time stamps and the words spoken).
 - Click on `Data > Split Text to Columns`. 
     - A `Separator` drop-down box will appear on your screen. 
