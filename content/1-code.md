@@ -7,7 +7,15 @@ nav: true
 
 # Code Your Transcript
 
-Read through your transcript and code cells by entering words from our controlled vocabulary into the "tags" column, right next to the cell you want those tags to describe.
+At this point, you should have a transcript that looks like this:
+
+[screenshot of field names and cells below]
+
+With four columns labeled `timestamp`, `speaker`, `words`, and `tags`
+
+So now it's time to start coding!
+
+Read through your transcript and tag cells with the preapproved tags in the table below. These tags should be entered into the "tags" column, right next to the `words` cell with the text you want them to describe.
 
 ### Tags:
 <table class="table table-striped border">
@@ -28,18 +36,23 @@ Read through your transcript and code cells by entering words from our controlle
 </table>
 
 
-### Here's an example:
+**Here's an example of a coded spreadsheet:**
 
 {% include figure.html img="/code/codesample1.png" caption="Sample Coded Spreadsheet" alt="a screenshot of a transcript coded in google sheets" width="100%" %}
 
-## Conversations
+{:.py-4 .mt-4}
+***
 
-Keep track of snippets of text that you think might fit into existing conversations, or might be used to create new conversations. Current conversation questions are listed below. 
+## Curate Some Conversations
+
+Keep track of snippets of text that you think might fit into [existing conversations](https://www.voicesofgayrodeo.com/), or might be used to create new conversations. Current conversation questions are listed below. 
 
 {:.alert .alert-danger .text-center .mx-5}
-**Don't** tag your transcript spreadsheets using the conversation tags. Follow these steps instead:
+Note: **Don't** tag your transcript spreadsheets using the conversation tags. Follow these steps instead:
 
 When you find some text you think might fit, copy it and paste it into this spreadsheet: [Potential Conversation Content](). 
+
+Insert your snippet of text into the `comments` column in the spreadsheet, and add the speakers first name and last name to their respective columns. Once this is done, tag your snippet of text with an appropriate tag selected from *Conversation Tags* table below.
 
 {% capture convo-field %}
 - firstname
@@ -54,6 +67,8 @@ When you find some text you think might fit, copy it and paste it into this spre
 ***
 
 ### Conversation Tags:
+
+These tags will situate the text within its associated conversation:
 
 <table class="table table-striped border">
     <thead>
