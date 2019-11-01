@@ -3,12 +3,14 @@ title: Home
 layout: default
 ---
 
-<h1 class="purple-outline" style="text-align:center">Coding Gay Rodeo Transcripts</h1>
+<div class="text-center">
+    <h1 class="purple-outline">Voices of Gay Rodeo:</h1>
+    <h2>Transcript Coding</h2>
+</div>
 
-{% include figure.html img="gayrodeoHAT.png" width="75%" %}
+{% include figure.html img="gayrodeohat.png" width="75%" %}
 
-<div class="text-center">Instructions for qualitative coding using <a href="https://github.com/uidaholib/oral-history-as-data" target="blank" rel="noopener">oral-history-as-data</a>.</div>
+<div class="text-center">Technical instructions for the Voices of Gay Rodeo Oral History Project.</div>
 
 ------
 
-{% include credits.html %}
