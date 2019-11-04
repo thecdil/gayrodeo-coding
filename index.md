@@ -8,7 +8,7 @@ layout: default
     <h2>Transcript Coding</h2>
 </div>
 
-{% include bootstrap/figure.md img="gayrodeohat.png" class="w-75" href="https://www.voicesofgayrodeo.com/" %}
+{% include bootstrap/figure.md img="gayrodeo.png" class="w-75" href="https://www.voicesofgayrodeo.com/" %}
 
 <h4 class="text-center">Technical instructions for the <br> Voices of Gay Rodeo Oral History Project.</h4>
 
