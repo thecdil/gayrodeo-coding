@@ -29,7 +29,7 @@ layout: default
         <div class="card-text">
             <ul>
                 <li>Day 1: <a href="/content/0-prep.html">Prepare</a> and <a href="/content/1-code.html">Code</a> transcripts</li>
-                <li>Day 2: <a href="/content/2-upload.html">Upload</a> transcripts to the Voices of Gay Rodeo website repository</li>
+                <li>Day 2: <a href="/content/2-upload.html">Upload</a> transcripts to the Voices of Gay Rodeo GitHub repository</li>
                 <li>Day 3: Discuss <a href="https://www.voicesofgayrodeo.com/">Voices of Gay Rodeo</a> website</li>
                 <li>Day 4: Catch up and ask questions</li>
             </ul>
