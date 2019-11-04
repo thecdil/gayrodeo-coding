@@ -7,17 +7,31 @@ nav: true
 
 # Code Your Transcript
 
-At this point, you should have a transcript that looks like this:
+At this point, you should have a transcript that's set up like this...
 
-[screenshot of field names and cells below]
+{% include figure.html img="/code/codesample2.png" caption="Sample Transcript CSV" alt="a screenshot of a transcript coded in google sheets" width="100%" %}
 
-With four columns labeled `timestamp`, `speaker`, `words`, and `tags`
+...with four columns labeled `timestamp`, `speaker`, `words`, and `tags`
 
-So now it's time to start coding!
+Now it's time to start coding! Follow these steps:
 
-Read through your transcript and tag cells with the preapproved tags in the table below. These tags should be entered into the "tags" column, right next to the `words` cell with the text you want them to describe.
+- [Tag Your Transcript](#trans)
+- [Identify Conversations](#conv)
+- [Finish Up](#finish)
 
-### Tags:
+{:.pt-4 .mt-4 #trans}
+***
+
+## Transcript Tagging
+
+1. Read through your transcript and tag cells with the preapproved tags in the table below. These tags should be entered into the `tags` column, in the same row as the text they're describing.
+
+2. Keep tags lowercase (following format in the table below).
+
+2. If you put multiple tags in one cell, **separate them with a semicolon (`;`)**. 
+
+{:.pt-4}
+### Tags
 <table class="table table-striped border">
     <thead>
         <tr>
@@ -36,40 +50,31 @@ Read through your transcript and tag cells with the preapproved tags in the tabl
 </table>
 
 
-**Here's an example of a coded spreadsheet:**
+{:.pt-4}
+### Coded Spreadsheet
+
+{:.pt-3}
+Here's how your tagged spreadsheet should look:
 
 {% include figure.html img="/code/codesample1.png" caption="Sample Coded Spreadsheet" alt="a screenshot of a transcript coded in google sheets" width="100%" %}
 
-{:.py-4 .mt-4}
+{:.pt-4 .mt-4 #conv}
 ***
 
 ## Curate Some Conversations
 
-Keep track of snippets of text that you think might fit into [existing conversations](https://www.voicesofgayrodeo.com/), or might be used to create new conversations. Current conversation questions are listed below. 
+Keep track of snippets of text that you think might fit into [existing conversations](https://www.voicesofgayrodeo.com/).
 
 {:.alert .alert-danger .text-center .mx-5}
-Note: **Don't** tag your transcript spreadsheets using the conversation tags. Follow these steps instead:
+Important: **Don't** tag your transcript spreadsheets using the conversation tags. Follow these steps instead:
 
-When you find some text you think might fit, copy it and paste it into this spreadsheet: [Potential Conversation Content](). 
+1. When you find some text you think might fit in a conversation, copy it and paste it into this spreadsheet: [Master Conversations](https://docs.google.com/spreadsheets/d/1TZpHcIRAI9KzGUwtXteLvNrPm6QO5HiNzHyZ2S9gxmU/edit?usp=sharing). 
 
-Insert your snippet of text into the `comments` column in the spreadsheet, and add the speakers first name and last name to their respective columns. Once this is done, tag your snippet of text with an appropriate tag selected from *Conversation Tags* table below.
+2. Insert your snippet of text into the `comments` column in the spreadsheet, and add the speaker's first name and last name to the row. Once this is done, tag your snippet of text with an appropriate tag selected from *Conversation Tags* table below.
 
-{% capture convo-field %}
-- firstname
-- lastname
-- comments
-- tag
-{% endcapture %}
+{:.pt-4}
 
-{% include bootstrap/card.md header="Be sure to fill in the following fields:" text=convo-field %}
-
-{:.py-4 .mt-4}
-***
-
-### Conversation Tags:
-
-These tags will situate the text within its associated conversation:
-
+### Conversation Tags
 <table class="table table-striped border">
     <thead>
         <tr>
@@ -87,9 +92,18 @@ These tags will situate the text within its associated conversation:
     </tbody>
 </table>
 
+{:.pt-4 .mt-4 #finish}
+***
 
-**Rules for Entering Tags:**
-- For consistency, keep tags lowercase
-- Multi-word tags must be hyphenated (`data-sequencing`)
-- To insert multiple tags, include a semi-colon between each tag with no spaces (`data-sequencing;genetics`)
+## Finishing Up
+
+When your transcript is finished, notify Becca and she will check it for you. 
+
+Once she approves it, you'll need to download the transcript to your computer as a **comma-separated file (CSV)**. Follow the steps below:
+
+1. Click on `File` > `Download` > `Comma-separated values (.csv, current sheet)`.
+
+2. **Don't** open the CSV. Make sure you know where it's located on your computer, then move to the next page for instructions on what to do next.
+
+{% include figure.html img="/code/download.png" caption="Download Your Transcript as a CSV" alt="a screenshot of steps to download a google sheet as a csv" width="100%" %}
 

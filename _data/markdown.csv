@@ -1,0 +1,9 @@
+variable,format,example
+object-id,"transcript filename, in format lastnamefirstname (all lowercase)",bergmannroger  
+transcript,"'transcript-' prepends transcript filename (all lowercase)",transcript-bergmannroger  
+first-name,"Firstname (first letter capitalized)",Roger
+last-name,"Lastname (first letter capitalized)",Bergmann
+date-interviewed,"Month DD, YYYY","November 19, 2016"
+location,"City, State","Austin, Texas"
+interviewer,"Firstname Lastname (first letter capitalized)",Rebecca Scofield
+image,"if interviewee has provided an image for the website, the input is y; if no image, the input is n (stock image will display)",y

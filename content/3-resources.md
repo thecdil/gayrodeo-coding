@@ -1,6 +1,6 @@
 ---
 title: 4 - Resources
-nav: true
+nav: false
 ---
 
 # Resources
