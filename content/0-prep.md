@@ -70,7 +70,7 @@ If the text you paste into your Google Sheet looks like this...
 
 ## Separate Your Cells
 
-- If they aren't highlighted already, highlight the cells you just pasted, so that your sheet looks like this:
+- If they aren't selected already, select the cells you just pasted, so that your sheet looks like this:
 
 {% include figure.html img="/prep/transcript2.png" caption="Highlight Cells" alt="a screenshot of pasting text in google sheets" width="100%" %}
 
@@ -147,11 +147,11 @@ Now you'll need to read through your interview with three goals:
 
 {% include figure.html img="/prep/transcript11.png" caption="Insert 1 below" alt="a screenshot of pasting text in google sheets" width="100%" %}
 
-- Insert the speaker's initials into the `speaker` cell
+- Insert the speaker's initials into the new `speaker` cell
 
-- Select and copy half the text from the `words` cell, and paste it below into the cell you just created (make sure to also delete your selection from its original cell)
+- Select and copy half the text from the original `words` cell, and paste it below into the cell you just created (make sure to also delete the text you just pasted from its original cell)
 
-- Finished, your split should look like this:
+- Finished, your split cell should look like this:
 
 {% include figure.html img="/prep/transcript12.png" caption="Text Split Between Two Rows" alt="a screenshot of pasting text in google sheets" width="100%" %}
 
@@ -181,7 +181,7 @@ Now you'll need to read through your interview with three goals:
 
 ## Name Your Transcript
 
-- Name your transcript spreadsheet using the following format: `lastnamefirstname` (all lowercase) (example: `bergmannroger`)
+- Name your transcript spreadsheet file using the following format: `lastnamefirstname` (all lowercase) (example: `bergmannroger`)
 
 - If the interviewee has elected not to use his or her whole last name, use the first initial of their last name in place of their last name: `initialfirstname` (example: `broger`)
 

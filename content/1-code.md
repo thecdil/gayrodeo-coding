@@ -26,7 +26,7 @@ Now it's time to start coding! Follow these steps:
 
 1. Read through your transcript and tag cells with the preapproved tags in the table below. These tags should be entered into the `tags` column, in the same row as the text they're describing.
 
-2. Keep tags lowercase (following format in the table below).
+2. Keep tags lowercase (following the format in the table below).
 
 2. If you put multiple tags in one cell, **separate them with a semicolon (`;`)**. 
 
@@ -70,7 +70,9 @@ Important: **Don't** tag your transcript spreadsheets using the conversation tag
 
 1. When you find some text you think might fit in a conversation, copy it and paste it into this spreadsheet: [Master Conversations](https://docs.google.com/spreadsheets/d/1TZpHcIRAI9KzGUwtXteLvNrPm6QO5HiNzHyZ2S9gxmU/edit?usp=sharing). 
 
-2. Insert your snippet of text into the `comments` column in the spreadsheet, and add the speaker's first name and last name to the row. Once this is done, tag your snippet of text with an appropriate tag selected from *Conversation Tags* table below.
+2. Insert your snippet of text into the `comments` column in the spreadsheet, and add the speaker's first name and last name to the row. 
+
+3. Tag your snippet of text with an appropriate tag selected from *Conversation Tags* table below. **Only one conversation tag is allowed per text selection**.
 
 {:.pt-4}
 
