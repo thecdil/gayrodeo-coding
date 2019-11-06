@@ -7,7 +7,13 @@ nav: true
 
 # Code Your Transcript
 
-At this point, you should have a transcript that's set up like this...
+At this point, you should have three documents:
+
+1. A Google Doc version of the transcript
+
+2. A Google Sheet named `lastnamefirstname_original`
+
+3. A Google Sheet named `lastnamefirstname`. This is the file you'll be working on from now on. It should be a transcript that's set up like this...
 
 {% include figure.html img="/code/codesample2.png" caption="Sample Transcript CSV" alt="a screenshot of a transcript coded in google sheets" width="100%" %}
 
@@ -26,6 +32,9 @@ Now it's time to start coding! Follow these steps:
 ## Transcript Tagging
 
 1. Read through your transcript and tag cells with the preapproved tags in the table below. These tags should be entered into the `tags` column, in the same row as the text they're describing.
+
+{:.card .card-body .card-text .mx-4}
+**Note: you don't need to insert a tag in every single row, only when you come across text that you think needs to be tagged**
 
 2. Keep tags lowercase (following the format in the table below).
 
