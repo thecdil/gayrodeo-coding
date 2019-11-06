@@ -71,6 +71,31 @@ If the text you paste into your Google Sheet looks like this...
 
 ## Separate Your Cells
 
+{:.pt-4}
+### Add a separator
+{:.pb-3}
+
+- Open Find and Replace: 
+
+    - Press `ctrl` + `f` (on PC) or `cmd` + `f` (on Mac)
+
+    - A search box should appear in the top right of your screen. Click on the `More options` button to the right of the search box (three vertical dots). A box labeled `Find and replace` will appear in the middle of your screen.
+
+{:.pt-2}
+- In the `Find` box, enter the initials of the first speaker (ex. `RS`)
+
+- In the `Replace` box, enter the initials of the first speaker, plus an asterisk (`*`) (ex. `RS*`)
+
+- Click the `Replace all` button. Then click `Done`
+
+- Repeat the steps above for the initials of the second speaker and the speakers' full names
+
+- Your spreadsheet should now look like this:
+
+{:.pt-4}
+### Separate
+{:.pb-3}
+
 - If they aren't selected already, select the cells you just pasted, so that your sheet looks like this:
 
 {% include figure.html img="/prep/transcript2.png" caption="Highlight Cells" alt="a screenshot of pasting text in google sheets" width="100%" %}
@@ -87,12 +112,12 @@ If the text you paste into your Google Sheet looks like this...
 
 - A box should appear labeled `Custom separator`
 
-- Enter a **colon (`:`) followed by a space** into this box.
+- Enter an **asterisk (`*`) followed by a space (` `)** into this box.
 
 {:.alert .alert-danger .text-center .mx-5}
-Make sure **your colon is followed by a space**! Otherwise your transcript will be a lot more difficult to clean up.
+Make sure **your asterisk is followed by a space**! Otherwise your transcript will be a lot more difficult to clean up.
 
-{% include figure.html img="/prep/transcript9.png" caption="Enter a colon (:) followed by a space" alt="a screenshot of pasting text in google sheets" width="100%" %}
+{% include figure.html img="/prep/transcript9.png" caption="Enter an asterisk (*) followed by a space ( )" alt="a screenshot of pasting text in google sheets" width="100%" %}
 
 - The text should separate into a new column automatically:
 
