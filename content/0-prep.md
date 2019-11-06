@@ -9,7 +9,8 @@ nav: true
 - [Separate the Cells](#cells)
 - [Check for Errors](#errors)
 - [Read Your Transcript](#read)
-- [Naming Your Transcript](#name)
+- [Name Your Transcript](#name)
+- [Make a Copy of Your Transcript](#copy)
 
 {:.pt-4 .mt-4 #sheets}
 ***
@@ -166,7 +167,12 @@ Now you'll need to read through your interview with three goals:
 
 - When you come across a timestamp:
 
-    - Copy and paste it into that row's `timestamp` cell
+    - Change the datatype of the `timestamp` column to "Duration":
+
+        - To do this, in the Google Sheets menu select `Format` > `Number` > `Duration`
+
+    {:.pt-3}
+    - Copy and paste the timestamp you found into that row's `timestamp` cell
 
     - Replace the parentheses (`()`) with brackets (`[]`)
 
@@ -181,8 +187,22 @@ Now you'll need to read through your interview with three goals:
 
 ## Name Your Transcript
 
-- Name your transcript spreadsheet file using the following format: `lastnamefirstname` (all lowercase) (example: `bergmannroger`)
+- Name your transcript spreadsheet file using the following format with the interviewee's preferred name: `lastnamefirstname` (all lowercase) (example: `bergmannroger`)
 
 - If the interviewee has elected not to use his or her whole last name, use the first initial of their last name in place of their last name: `initialfirstname` (example: `broger`)
 
 - If the interviewee has elected not to use his or her last name at all, simply title the transcript with their firstname: `firstname` (example: `roger`)
+
+
+{:.pt-4 .mt-4 #copy}
+***
+
+## Make a Copy of Your Transcript Spreadsheet
+
+- Create a new Google Sheet
+
+- Copy and paste the contents of the sheet you just created into this new sheet
+
+- Name this new sheet according to the naming conventions above, adding `_original` to the end of the file name
+
+- Set this `_original` sheet aside; it will serve as the full transcript spreadsheet for the archives
