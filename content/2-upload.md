@@ -33,7 +33,7 @@ If you already have a GitHub account, skip this step.
 
 ## Upload Your Transcript
 
-Head over to the Voices of Gay Rodeo [GitHub Repository](https://github.com/uidaholib/gayrodeo_source). This is were all the source code for the Voices of Gay Rodeo website is stored. We'll use your GitHub username to make you a collaborator for this repository. 
+Head over to the Voices of Gay Rodeo Development [GitHub Repository](https://github.com/thecdil/gayrodeo_dev). This is were all the source code for the Voices of Gay Rodeo website is stored. We'll use your GitHub username to make you a collaborator for this repository. 
 
 The repository looks something like this:
 
@@ -83,7 +83,7 @@ There are two major steps you'll need to undertake in this section:
 {:.pt-3 #create}
 ### Creating Your Markdown File in `_interviews`
 
-- Starting back at the home page of the Voices of Gay Rodeo [GitHub Repository](https://github.com/uidaholib/gayrodeo_source), click on the folder labeled `_interviews`.
+- Starting back at the home page of the Voices of Gay Rodeo [GitHub Repository](https://github.com/thecdil/gayrodeo_dev){:target="_blank"}, click on the folder labeled `_interviews`.
 
 - In the top right, click on the button labeled `Create new file`.
 
@@ -110,7 +110,7 @@ image: y
 ```
 
 {:.pt-3}
-- What you've just copied is called YAML front matter (we'll discuss this in class). The fields *before* the colons (`:`) are called **Variables**, and the entries after the colons are the **value** of each variable. 
+- What you've just copied is called YAML front matter. The fields *before* the colons (`:`) are called **Variables**, and the entries after the colons are the **value** of each variable. 
 
 - In order for your new pages to show up on the website, you need to **(1) delete the current values (everything to the right of the colons)**, and **(2) enter values that describe the interview you just uploaded**.
     - Follow the example values you copied into your document, or see the table below for more detail:
@@ -163,7 +163,7 @@ If you want to make an edit to your markdown file after committing, follow these
 - Click on the pencil icon in the top right corner  
 
 {:.pt-1}
-- Commit your new changes
+- Make your new changes and commit them
 {% include figure.html img="/upload/github7.png" caption="Editing Your Markdown File" alt="a screenshot showing how to edit a markdown file on GitHub" width="100%" %}
 {% endcapture %}
 {% include bootstrap/alert.md text=markdown color="warning" %}
@@ -208,11 +208,11 @@ If you want to make an edit to your markdown file after committing, follow these
 
 - Wait a few minutes after your last commit for the repository to update.
 
-- Follow this link: <https://uidaholib.github.io/gayrodeo_source/>{:target="_blank"} to see how the interview you added looks on the demo site.
+- Follow this link: <https://thecdil.github.io/gayrodeo_dev/>{:target="_blank"} to see how the interview you added looks on the demo site.
 
 {:.pt-4 .mt-4 #live}
 ***
 
 ## Make Your Changes Live
 
-- When your interview is ready to be made live on the official Voices of Gay Rodeo website, email [Olivia Wikle](mailto:omwikle@uidaho.edu) and [Devin Becker](mailto:dbecker@uidaho.edu). Be sure to include the name of the interview you added in your email.
+- When your interview is ready to be made live on the official [Voices of Gay Rodeo website](https://www.voicesofgayrodeo.com/){:target="_blank"}, email [Olivia Wikle](mailto:omwikle@uidaho.edu) and [Devin Becker](mailto:dbecker@uidaho.edu). Be sure to include the name of the interview you added in your email.
