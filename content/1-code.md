@@ -33,12 +33,14 @@ Now it's time to start coding! Follow these steps:
 
 1. Read through your transcript and tag cells with the preapproved tags in the table below. These tags should be entered into the `tags` column, in the same row as the text they're describing.
 
+    - If you think of a new tag you'd like to use, be sure to add it to this [filters spreadsheet](https://docs.google.com/spreadsheets/d/1RX6nVuVGtlN3icz6ffOQgPDcbCXq6Rag6SgQVd-bIJA/edit?usp=sharing) before you use it.
+
 {:.card .card-body .card-text .mx-4}
 **Note: you don't need to insert a tag in every single row, only when you come across text that you think needs to be tagged**
 
 2. Keep tags lowercase (following the format in the table below).
 
-2. If you put multiple tags in one cell, **separate them with a semicolon (`;`)**. 
+3. If you put multiple tags in one cell, **separate them with a semicolon (`;`)**. 
 
 {:.pt-4}
 ### Tags
