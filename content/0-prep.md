@@ -200,7 +200,7 @@ Now you'll need to read through your interview with three goals:
 
     - Change the datatype of the `timestamp` column to "Duration":
 
-        - To do this, in the Google Sheets menu select `Format` > `Number` > `Duration`
+        - To do this, select the entire `timestamp` column, so it's highlighted. Then, in the Google Sheets menu select `Format` > `Number` > `Duration`
 
     {:.pt-3}
     - Copy and paste the timestamp you found into that row's `timestamp` cell
