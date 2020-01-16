@@ -33,7 +33,7 @@ If you already have a GitHub account, skip this step.
 
 ## Upload Your Transcript
 
-Head over to the Voices of Gay Rodeo Development [GitHub Repository](https://github.com/thecdil/gayrodeo_dev). This is were all the source code for the Voices of Gay Rodeo website is stored. We'll use your GitHub username to make you a collaborator for this repository. 
+Head over to the Voices of Gay Rodeo Development [GitHub Repository](https://github.com/thecdil/gayrodeo_dev). This is where all the source code for the Voices of Gay Rodeo website is stored. We'll use your GitHub username to make you a collaborator for this repository. 
 
 The repository looks something like this:
 
